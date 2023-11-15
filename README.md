@@ -1,2 +1,3 @@
-# Tugas2-PemDesGame
+# Progress di kelas PemGame dan DesGame
+
  
